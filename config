@@ -7,3 +7,9 @@ interval=30
 command=blocks/calendar/calendar
 interval=1
 LABEL= 
+
+[volume]
+command=blocks/volume/volume
+LABEL=♪ 
+interval=once
+signal=10
