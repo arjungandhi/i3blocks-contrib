@@ -1,0 +1,9 @@
+[battery]
+command=blocks/battery/battery
+markup=pango
+interval=30
+
+[calendar]
+command=blocks/calendar/calendar
+interval=1
+LABEL= 
